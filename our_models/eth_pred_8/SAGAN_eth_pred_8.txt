@@ -1,0 +1,10 @@
+obs_len_8_with_model.pt
+Dataset: eth, Pred Len: 8, ADE: 0.60, FDE: 1.17
+obs_len_12_with_model.pt
+Dataset: eth, Pred Len: 8, ADE: 0.51, FDE: 0.97
+obs_len_16_with_model.pt
+Dataset: eth, Pred Len: 8, ADE: 0.38, FDE: 0.69
+obs_len_20_with_model.pt
+Dataset: eth, Pred Len: 8, ADE: 0.33, FDE: 0.53
+obs_len_24_with_model.pt
+Dataset: eth, Pred Len: 8, ADE: 0.25, FDE: 0.41

@@ -1,0 +1,8 @@
+obs_len_12_with_model.pt
+Dataset: univ, Pred Len: 8, ADE: 0.43, FDE: 0.84
+obs_len_16_with_model.pt
+Dataset: univ, Pred Len: 8, ADE: 0.42, FDE: 0.80
+obs_len_20_with_model.pt
+Dataset: univ, Pred Len: 8, ADE: 0.42, FDE: 0.78
+obs_len_24_with_model.pt
+Dataset: univ, Pred Len: 8, ADE: 0.40, FDE: 0.77

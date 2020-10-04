@@ -1,0 +1,10 @@
+obs_len_8
+Dataset: zara1, Pred Len: 8, ADE: 0.22, FDE: 0.43
+obs_len_12
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.40
+obs_len_16
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.40
+obs_len_20
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.42
+obs_len_24
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41
